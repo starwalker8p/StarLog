@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/StarLog/static/css/main.53e81c80.css",
+    "main.js": "/StarLog/static/js/main.17c7100e.js",
+    "static/js/453.0cdbd17a.chunk.js": "/StarLog/static/js/453.0cdbd17a.chunk.js",
+    "static/media/Imagem do WhatsApp de 2024-05-25 à(s) 10.18.23_6e63c018.jpg": "/StarLog/static/media/Imagem do WhatsApp de 2024-05-25 à(s) 10.18.23_6e63c018.5b5e3ac0358db9e558e3.jpg",
+    "index.html": "/StarLog/index.html",
+    "main.53e81c80.css.map": "/StarLog/static/css/main.53e81c80.css.map",
+    "main.17c7100e.js.map": "/StarLog/static/js/main.17c7100e.js.map",
+    "453.0cdbd17a.chunk.js.map": "/StarLog/static/js/453.0cdbd17a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53e81c80.css",
+    "static/js/main.17c7100e.js"
+  ]
+}
