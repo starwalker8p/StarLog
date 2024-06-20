@@ -156,6 +156,7 @@ h2{
   justify-content: space-between;
 }
 .games>* {
+  background-size: cover;
   border: 1px solid #1BF2D8;
   width: 220px;
   height: 300px;
@@ -181,7 +182,11 @@ h2{
   border-radius: 3px;
   transition: 0.2s ease;
 }
+.img1{
+  background-size: cover;
+}
 .img2{
+  background-size: cover;
   display: flex;
   position: relative;
   left: 30px;
@@ -217,6 +222,7 @@ hr{
   height: 450px;
 }
 .rimg1{
+  background-size: cover;
   border: #1BF2D8 1px solid;
   width: 80px;
   height: 100px;
