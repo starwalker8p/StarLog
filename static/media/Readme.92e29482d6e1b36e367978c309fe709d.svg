@@ -1,0 +1,6 @@
+<svg width="1250" height="4000" viewBox="0 0 1608 4399" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path id="path1" d="M570 -2.5C24.8146 219.008 -18.905 369.054 54 651.5C358.364 1410.88 523.438 1558.66 818 1829C1390.23 2305.04 524.5 1757.5 621.5 2290.5C718.5 2823.5 1384.35 2585.8 1007.5 3204.5C630.65 3823.2 481.486 4417.28 715.5 4397" stroke="#1BF2D8" strokeOpacity="0.25" strokeWidth="2" strokeDasharray="10 10"/>
+            <path id="path2" d="M1607 34C1077.22 197.497 1083.29 372.701 1256.7 729.995C1619 1292.44 635.068 1485.99 574.323 1387.99C513.577 1289.99 4.57397 2031.79 616.845 2153.98C1473.2 2405.85 1528.37 2629.3 1078.51 3133.98C588.198 3483.62 -26.5182 3910.24 2.99935 4183.34C32.5169 4456.44 369.646 4369.85 1411 4346" stroke="#1BF2D8" strokeOpacity="0.25" strokeWidth="2" strokeDasharray="10 10"/>
+            <animate href="#path1" attributeName="stroke-dashoffset" from="0" to="20" dur="0.5s" repeatCount="indefinite"/>
+            <animate href="#path2" attributeName="stroke-dashoffset" from="0" to="20" dur="0.5s" repeatCount="indefinite"/>
+          </svg>
