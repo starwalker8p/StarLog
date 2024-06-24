@@ -1,22 +1,36 @@
 {
   "files": {
-    "main.css": "/StarLog/static/css/main.142bda81.css",
-    "main.js": "/StarLog/static/js/main.c0a4971a.js",
+    "main.css": "/StarLog/static/css/main.f71bc381.css",
+    "main.js": "/StarLog/static/js/main.ec6c3a86.js",
     "static/js/453.0cdbd17a.chunk.js": "/StarLog/static/js/453.0cdbd17a.chunk.js",
+    "static/media/1.jpg": "/StarLog/static/media/1.ac8d5eba41cc32f96509.jpg",
+    "static/media/14.jpg": "/StarLog/static/media/14.4ae1df3dbd20fee53e29.jpg",
     "static/media/Imagem do WhatsApp de 2024-05-25 à(s) 10.18.23_6e63c018.jpg": "/StarLog/static/media/Imagem do WhatsApp de 2024-05-25 à(s) 10.18.23_6e63c018.5b5e3ac0358db9e558e3.jpg",
+    "static/media/12.jpg": "/StarLog/static/media/12.ecb19f9659b75f1d3542.jpg",
+    "static/media/2.jpg": "/StarLog/static/media/2.bf13d9847ccce4b28888.jpg",
+    "static/media/13.jpg": "/StarLog/static/media/13.ee184a1a9b178cd3ca15.jpg",
+    "static/media/4.jpg": "/StarLog/static/media/4.8ec4cc35fd69cc29b31a.jpg",
+    "static/media/5.jpg": "/StarLog/static/media/5.742e8a1f9ef41c0cc86c.jpg",
+    "static/media/3.jpg": "/StarLog/static/media/3.93832c1f8431d00fffdb.jpg",
+    "static/media/7.jpg": "/StarLog/static/media/7.57164f2073347823b2e6.jpg",
+    "static/media/6.jpg": "/StarLog/static/media/6.3030296d1b33a5e5088c.jpg",
     "static/media/logo.svg": "/StarLog/static/media/logo.8e3ae250b28c11afa242849bdcab49ce.svg",
+    "static/media/8.jpg": "/StarLog/static/media/8.61903e186ec9bf7ed800.jpg",
+    "static/media/9.jpg": "/StarLog/static/media/9.55943696b53f59ee8fea.jpg",
+    "static/media/11.jpg": "/StarLog/static/media/11.3be289de9d498c3c0d6c.jpg",
+    "static/media/10.jpg": "/StarLog/static/media/10.31dde03f0a65d1ece21a.jpg",
     "static/media/logof.svg": "/StarLog/static/media/logof.ce1a98fd62db9487807af763a07d57c8.svg",
     "static/media/starc.svg": "/StarLog/static/media/starc.9881e8da818caf9617381e16e9c1fb6f.svg",
     "static/media/star.svg": "/StarLog/static/media/star.4869933a95d4bb5d913f56f86e1f21c7.svg",
     "static/media/Readme.svg": "/StarLog/static/media/Readme.92e29482d6e1b36e367978c309fe709d.svg",
     "static/media/heart.svg": "/StarLog/static/media/heart.5a1e36ce8b2b823eb36f9abe9f50b443.svg",
     "index.html": "/StarLog/index.html",
-    "main.142bda81.css.map": "/StarLog/static/css/main.142bda81.css.map",
-    "main.c0a4971a.js.map": "/StarLog/static/js/main.c0a4971a.js.map",
+    "main.f71bc381.css.map": "/StarLog/static/css/main.f71bc381.css.map",
+    "main.ec6c3a86.js.map": "/StarLog/static/js/main.ec6c3a86.js.map",
     "453.0cdbd17a.chunk.js.map": "/StarLog/static/js/453.0cdbd17a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.142bda81.css",
-    "static/js/main.c0a4971a.js"
+    "static/css/main.f71bc381.css",
+    "static/js/main.ec6c3a86.js"
   ]
 }
