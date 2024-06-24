@@ -187,9 +187,11 @@ h2{
   transition: 0.2s ease;
 }
 .img1{
+  background-image: url(../public/1.jpg);
   background-size: cover;
 }
 .img2{
+  background-image: url(../public/2.jpg);
   background-size: cover;
   display: flex;
   position: relative;
@@ -225,7 +227,7 @@ hr{
   width: 635px;
   height: 450px;
 }
-.rimg1{
+.rimg1,.rimg2,.rimg3,.rimg4{
   background-size: cover;
   border: #1BF2D8 1px solid;
   width: 80px;
@@ -265,7 +267,7 @@ hr{
   position: relative;
   bottom: 18px;
 }
-.rimg1:hover,#heart:hover{
+.rimg1:hover,.rimg2:hover,.rimg3:hover,.rimg4:hover,#heart:hover{
   transform: scale(1.10);
 }
 .reviews{
@@ -379,4 +381,119 @@ hr{
 }
 .ftext>h2:hover{
   transform: scale(1.05)
+}
+.game1{
+  background-image: url(../public/3.jpg);
+}
+.game2{
+  background-image: url(../public/4.jpg);
+}
+.game3{
+  background-image: url(../public/5.jpg);
+}
+.game4{
+  background-image: url(../public/6.jpg);
+}
+.game5{
+  background-image: url(../public/7.jpg);
+}
+.rimg1{
+  background-image: url(../public/8.jpg);
+  background-size: cover;
+}
+.rimg2{
+  background-image: url(../public/9.jpg);
+  background-size: cover;
+}
+.rimg3{
+  background-image: url(../public/10.jpg);
+  background-size: cover;
+}
+.rimg4{
+  background-image: url(../public/11.jpg);
+  background-size: cover;
+}
+#limg1{
+  background-size: cover;
+  background-image: url(../public/13.jpg);
+}
+#limg2{
+  background-size: cover;
+  background-image: url(../public/12.jpg);
+}
+#limg3{
+  background-size: cover;
+  background-image: url(../public/14.jpg);
+}
+#nimg1{
+  background-size: cover;
+  background-image: url(../public/critter-crops-cover.webp);
+}
+#nimg2{
+  background-size: cover;
+  background-image: url(../public/dreamtactics-steam.jpg);
+}
+#nimg3{
+  background-size: cover;
+  background-image: url(../public/harold-halibut-cover-download.webp);
+}
+#nimg4{
+  background-size: cover;
+  background-image: url(../public/MV5BOTBjNDUyYmYtMTA4Yi00Mjg5LTlhNmMtZGFmNzUzZDMzZWQyXkEyXkFqcGdeQXVyMTgwNDM0Nzc0._V1_FMjpg_UX1000_.jpg);
+}
+#nimg5{
+  background-size: cover;
+  background-image: url(../public/Game-Page-Box-Art_BioGun-320x480.jpg);
+}
+#nimg6{
+  background-size: cover;
+  background-image: url(../public/kg-1.webp);
+}
+#nimg21{
+  background-size: cover;
+  background-image: url(../public/81Ie60x3vpL._AC_UF1000\,1000_QL80_.jpg);
+}
+#nimg22{
+  background-size: cover;
+  background-image: url(../public/images.jpeg);
+}
+#nimg23{
+  background-size: cover;
+  background-image: url(../public/Hades-2-ea.webp);
+}
+#nimg24{
+  background-size: cover;
+  background-image: url(../public/Elden\ Ring.jpg);
+}
+#nimg25{
+  background-size: cover;
+  background-image: url(../public/Stellar_Blade_Cover.webp);
+}
+#nimg26{
+  background-size: cover;
+  background-image: url(../public/GTA\ VI.jpg);
+}
+#nimg31{
+  background-size: cover;
+  background-image: url(../public/images\ \(1\).jpeg);
+}
+#nimg32{
+  background-size: cover;
+  background-image: url(../public/kv.f015d749.jpg);
+}
+#nimg33{
+  background-size: cover;
+  background-image: url(../public/4j7jlzmddow61.webp);
+}
+#nimg34{
+  background-size: cover;
+  background-image: url(../public/images\ \(2\).jpeg);
+}
+#nimg35{
+  background-size: cover;
+  background-image: url(../public/images\ \(3\).jpeg);
+}
+#nimg36{
+  background-size: cover;
+  background-image: url(../public/images\ \(4\).jpeg);
 }
